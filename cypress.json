@@ -1,0 +1,15 @@
+{   
+    "baseUrl": "https://dietly.pl/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "video": false,
+    "defaultCommandTimeout": 16000,
+  "env":{
+    "apiUrl": "https://dietly.pl/api",
+    "dietPrice": 80,
+    "path": {
+        "chooseDiet": "/wybierz-diete"   
+    }
+  }
+}
+
